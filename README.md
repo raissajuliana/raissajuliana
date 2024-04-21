@@ -1,6 +1,9 @@
 
 ### Olá, eu sou Raíssa Juliana 👋
 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/ra%C3%ADssa-juliana-gomes-albino-784437305/)
+
 ![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissajuliana&show_icons=true&theme=jolly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raissajuliana&hide_progress=true)
